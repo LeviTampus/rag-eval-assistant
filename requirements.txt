@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain-chroma
+langchain-openai
+langchain-classic
+chromadb
+python-dotenv
+gradio
+rank-bm25
+flashrank

@@ -1,0 +1,13 @@
+{"question": "What is an anime about volleyball?", "expected_answer": "Haikyuu!!", "expected_source": "Haikyuu!! Karasuno Koukou vs. Shiratorizawa Gakuen Koukou.txt"}
+{"question": "What is an anime about giants?", "expected_answer": "Shingeki no Kyojin", "expected_source": "Shingeki no Kyojin Season 3 Part 2.txt"}
+{"question": "What is an anime about the zodiac?", "expected_answer": "Fruits Basket: The Final", "expected_source": "Fruits Basket: The Final.txt"}
+{"question": "What is an anime about a rebellion against Britain?", "expected_answer": "Code Geass: Hangyaku no Lelouch R2", "expected_source": "Code Geass: Hangyaku no Lelouch R2.txt"}
+{"question": "What is Sousou no Frieren about?", "expected_answer": "An elf mage's journey after the hero's party defeats the Demon King", "expected_source": "Sousou no Frieren.txt"}
+{"question": "What is Steins;Gate about?", "expected_answer": "Time travel and its consequences", "expected_source": "Steins;Gate.txt"}
+{"question": "What is Fullmetal Alchemist: Brotherhood about?", "expected_answer": "Two brothers searching for the Philosopher's Stone", "expected_source": "Fullmetal Alchemist: Brotherhood.txt"}
+{"question": "How does the Shingeki no Kyojin story end?", "expected_answer": "The final season's conclusion", "expected_source": "Shingeki no Kyojin: The Final Season - Kanketsu-hen.txt"}
+{"question": "What is Ginga Eiyuu Densetsu about?", "expected_answer": "A space opera following two rival commanders", "expected_source": "Ginga Eiyuu Densetsu.txt"}
+{"question": "Who directed the movie Inception?", "expected_answer": null, "expected_source": null}
+{"question": "Which anime features Shiratorizawa?", "expected_answer": "Haikyuu!!", "expected_source": "Haikyuu!! Karasuno Koukou vs. Shiratorizawa Gakuen Koukou.txt"}
+{"question": "What anime has Kanketsu-hen in its title?", "expected_answer": "Shingeki no Kyojin: The Final Season - Kanketsu-hen", "expected_source": "Shingeki no Kyojin: The Final Season - Kanketsu-hen.txt"}
+{"question": "Which anime has R2 in the title?", "expected_answer": "Code Geass: Hangyaku no Lelouch R2", "expected_source": "Code Geass: Hangyaku no Lelouch R2.txt"}

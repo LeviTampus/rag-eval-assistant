@@ -1,0 +1,25 @@
+# Virtual environment
+.venv/
+
+# PyCharm
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Local environment / secrets
+.env
+
+# Generated vector store
+data/chroma/
+
+# Private working docs (mentor rules, plans, positioning, study notes)
+AGENTS.md
+PLAN.md
+PROJECT.md
+POSITIONING.md
+STUDY_PLAN.md
